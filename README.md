@@ -6,7 +6,7 @@ NO PULL REQUEST, THIS REPO AUTOMATICALLY CREATED BY SCRIPT
 
 For Atmosphere, just change folder name **sxos** to **atmosphere**
 
-29267 cheats in 1787 titles
+29706 cheats in 1802 titles
 
 ## GAMES INDEX
 
